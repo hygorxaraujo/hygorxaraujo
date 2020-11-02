@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a Systems Analyst at [ONS](http://www.ons.org.br/)
+- 📫 How to reach me: contact@hygorxaraujo.com
+- :notebook_with_decorative_cover: I'm writing at: https://hygorxaraujo.com
+
 <!--
 **hygorxaraujo/hygorxaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
