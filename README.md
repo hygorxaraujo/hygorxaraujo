@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a IT System and Architecture Analyst at [ONS](http://www.ons.org.br/)
+- 🔭 I’m currently working as a Data Scientist at [Peers Consulting & Technology](https://peers.com.br/)
 - :mag: I'm interested in AI/ML/DL and Data Science
 - 📫 How to reach me: contact@hygorxaraujo.com
 - :notebook_with_decorative_cover: I'm writing at: https://hygorxaraujo.com
