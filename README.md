@@ -1,21 +1,10 @@
-### Hi there 👋
+### Hi there, I am Hygor 👋
 
-- 🔭 I’m currently working as a Data Scientist at [Peers Consulting & Technology](https://peers.com.br/)
-- :mag: I'm interested in AI/ML/DL and Data Science
+- 🔭 I’m currently working as a Data Scientist
+- :mag: I'm interested in AI/ML/DL, Data Science, ML Engineering, Software Architecture and Development
 - 📫 How to reach me: contact@hygorxaraujo.com
 - :notebook_with_decorative_cover: I'm writing at: https://hygorxaraujo.com
 
-<!--
-**hygorxaraujo/hygorxaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![hygorxaraujo's Stats](https://github-readme-stats.vercel.app/api?username=hygorxaraujo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![hygorxaraujo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hygorxaraujo&theme=vue-dark&hide_border=true)
+![hygorxaraujo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hygorxaraujo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
